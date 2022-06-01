@@ -1,5 +1,6 @@
-### Hi there 👋
+[Black and Cream Minimal Retail Chic Electronics and Appliances Banner](https://user-images.githubusercontent.com/76507128/171487955-cec14dc4-f6e2-4ca2-b5b0-fdbdad064ce4.png)
 
+### Hi there I'm Hemanya 👋!
 <!--
 **hemanyaarora/hemanyaarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
