@@ -1,4 +1,5 @@
-[Black and Cream Minimal Retail Chic Electronics and Appliances Banner](https://user-images.githubusercontent.com/76507128/171487955-cec14dc4-f6e2-4ca2-b5b0-fdbdad064ce4.png)
+![Black and Cream Minimal Retail Chic Electronics and Appliances Banner](https://user-images.githubusercontent.com/76507128/171488135-70a62b6e-6368-47d1-999d-e6961eab116f.png)
+
 
 ### Hi there I'm Hemanya 👋!
 <!--
