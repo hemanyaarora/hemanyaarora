@@ -1,9 +1,11 @@
-![Black and Cream Minimal Retail Chic Electronics and Appliances Banner](https://user-images.githubusercontent.com/76507128/171488135-70a62b6e-6368-47d1-999d-e6961eab116f.png)
+### Hi there I'm Hemanya 👋
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hemanya-arora/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=new)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AroraHemanya)
 
-### Hi there I'm Hemanya 👋!
-<!--
-**hemanyaarora/hemanyaarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction 🚀
+I am an AI enthusiast who has a knack for working with data and creating long term solutions. 
 
 Here are some ideas to get you started:
 
