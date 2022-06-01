@@ -29,4 +29,8 @@ I am an AI enthusiast who has a knack for working with data and creating long te
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 </div>
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hemanyaarora&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanyaarora&langs_count=5&theme=tokyonight)]()
                              
