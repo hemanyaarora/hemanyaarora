@@ -34,9 +34,8 @@ I am an AI enthusiast who has a knack for working with data and creating long te
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hemanyaarora&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanyaarora&langs_count=5&theme=tokyonight)]()
                              
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanyaarora&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
