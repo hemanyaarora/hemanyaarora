@@ -33,8 +33,5 @@ I am an AI enthusiast who has a knack for working with data and creating long te
 
 
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hemanyaarora&count_private=true&theme=tokyonight&showicons=true)]()
-
                              
 
