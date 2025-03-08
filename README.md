@@ -8,7 +8,7 @@ I am an AI enthusiast who has a knack for working with data and creating long te
 - ⚡ Fun fact: In my pass time, I enjoy cooking and lifting weights for fun.
 
 ### Things I am currently working on 🔭
-- Projects I am passionate about.
+- As a Cloud Data Engineer
 - Enhancing my skills and diversifying my portfolio.
 
 ### Languages I'm familiar with 🤔
