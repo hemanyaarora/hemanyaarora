@@ -5,10 +5,9 @@
 
 ### Introduction 🚀
 I am an AI enthusiast who has a knack for working with data and creating long term solutions.
-- ⚡ Fun fact: In my pass time, I enjoy cooking and lifting weights for fun.
 
 ### Things I am currently working on 🔭
-- As a Cloud Data Engineer
+- As a Cloud Data Engineer at Cineplex
 - Enhancing my skills and diversifying my portfolio.
 
 ### Languages I'm familiar with 🤔
